@@ -17,7 +17,7 @@ public class ejercicio3 {
 
      */
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingresa texto para convertir a pascual🐇: ");
+        System.out.println("Ingresa texto para convetir a pascual🐇: ");
         String texto = sc.nextLine();
         String textoPascal = "";
         boolean mayuscula = true;
